@@ -1,0 +1,37 @@
+{
+  "name": "Vinay Maurya",
+  "position": "Regional Coordinator",
+  "house": "Kaziranga",
+  "region": "Mumbai Region (Maharashtra & Gujarat)",
+  "current_level": "Diploma Level - Term 2",
+  "academic_performance": {
+    "foundation_cgpa": 8.75,
+    "diploma_cgpa": "Maintaining 8+ CGPA",
+    "iitm_academic_badges": 18
+  },
+  "skills_and_interests": [
+    "Web Development",
+    "Technology",
+    "Team Collaboration",
+    "Student Support"
+  ],
+  "vision": {
+    "weekly_doubt_sessions": "Regular academic support sessions, especially for Foundation-level students.",
+    "online_meets": "Friendly, interactive online hangouts for students to connect and collaborate.",
+    "offline_meetups": "In-person meetups in cities with more than 10 students to build stronger local communities.",
+    "creative_activities": [
+      "AI tool exploration",
+      "Photo & video editing",
+      "Programming competitions",
+      "Tech-based learning events"
+    ],
+    "foundation_support": "Active mentorship and doubt-solving for Foundation students from my own recent experience.",
+    "paradox_goal": "Push Kaziranga to the top in the next Paradox event through active participation and unity."
+  },
+  "contact": {
+    "whatsapp": "Available on request",
+    "email": "24f2005644@ds.study.iitm.ac.in",
+    "linkedin": "www.linkedin.com/in/vinay-m-88aba720b"
+  },
+  "closing_message": "Let’s make Kaziranga – Mumbai Region a strong, united, and thriving community. Thank you for your support! 💕"
+}
